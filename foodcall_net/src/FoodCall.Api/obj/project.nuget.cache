@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "cwdFhA5HIas=",
+  "success": true,
+  "projectFilePath": "D:\\Projetos\\foodcall\\foodcall_net\\src\\FoodCall.Api\\FoodCall.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gui\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.11\\microsoft.aspnetcore.openapi.10.0.11.nupkg.sha512",
+    "C:\\Users\\Gui\\.nuget\\packages\\microsoft.openapi\\2.7.5\\microsoft.openapi.2.7.5.nupkg.sha512"
+  ],
+  "logs": []
+}
